@@ -29,26 +29,6 @@ This project analyzes retail sales performance in Indonesia using the Global Sup
 
 ---
 
-## Project Structure
-
-```bash
-global-superstore-indonesia-analysis/
-│
-├── data/
-│   └── Global Superstore.xls
-│
-├── notebooks/
-│   └── NHOM10_CODE.ipynb
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## Data Visualization
 
 ### Quarterly Sales Trend
