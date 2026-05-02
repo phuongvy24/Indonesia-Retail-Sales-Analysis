@@ -32,19 +32,19 @@ This project analyzes retail sales performance in Indonesia using the Global Sup
 ## Data Visualization
 
 ### Quarterly Sales Trend
-<!-- <img width="863" height="499" alt="Quarterly Sales Trend" src="https://github.com/user-attachments/assets/3bb3a811-1b09-4010-9e9c-f4d39b426ff5" /> -->
+<img width="863" height="499" alt="Quarterly Sales Trend" src="https://github.com/user-attachments/assets/771d949b-e61a-4c83-8348-120e3b5f21ae" />
 
 ### Quarterly Profit Trend
-<!-- <img width="864" height="496" alt="Quarterly Profit Trend" src="https://github.com/user-attachments/assets/e80d34b1-6af7-4a33-91cd-b4ca4acc358e" /> -->
+<img width="864" height="496" alt="Quarterly Profit Trend" src="https://github.com/user-attachments/assets/beca041c-32ea-4f0e-b0b7-e6a939fd28ce" />
 
 ### Sales by State
-<!-- <img width="1490" height="611" alt="Sales by State" src="https://github.com/user-attachments/assets/423c501f-b1f7-45f4-bbe3-f716b41460a7" /> -->
+<img width="1490" height="611" alt="Sales by State" src="https://github.com/user-attachments/assets/423c501f-b1f7-45f4-bbe3-f716b41460a7" />
 
 ### Profit by State
-<!-- <img width="1493" height="611" alt="Profit by State" src="https://github.com/user-attachments/assets/c407184b-7efb-45af-bb34-df5154be6ad5" /> -->
+<img width="1493" height="611" alt="Profit by State" src="https://github.com/user-attachments/assets/c407184b-7efb-45af-bb34-df5154be6ad5" />
 
 ### Impact of Discount on Profit
-<!-- <img width="871" height="470" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/14ad6f4b-0c2f-4690-bdad-6458d004bfbb" /> -->
+<img width="871" height="470" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/14ad6f4b-0c2f-4690-bdad-6458d004bfbb" /> 
 
 ---
 
