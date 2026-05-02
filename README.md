@@ -43,7 +43,7 @@ This project analyzes retail sales performance in Indonesia using the Global Sup
 ### Profit by State
 <!-- <img width="1493" height="611" alt="Profit by State" src="https://github.com/user-attachments/assets/c407184b-7efb-45af-bb34-df5154be6ad5" /> -->
 
-### Category & Sub-Category Performance
+### Impact of Discount on Profit
 <!-- <img width="871" height="470" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/14ad6f4b-0c2f-4690-bdad-6458d004bfbb" /> -->
 
 ---
